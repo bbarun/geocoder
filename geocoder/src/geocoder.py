@@ -5,4 +5,4 @@ Created on 2. 4. 2014.
 '''
 
 if __name__ == '__main__':
-    pass
+    print 'Try something out!'
